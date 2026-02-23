@@ -1,0 +1,2069 @@
+{
+  "data" : [ {
+    "gid" : "1213362937805985",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-19T18:12:48.923Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:33:03.766Z",
+    "name" : "Video Recording",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213362937805985",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213362937805981",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-19T18:11:55.231Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:27:58.121Z",
+    "name" : "Documentation",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213362937805981",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167552",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:22:59.468Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "Low",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:27:51.776Z",
+    "name" : "Demo Workflow",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167552",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213362937806004",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-19T18:28:06.929Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:27:37.239Z",
+    "name" : "ML Project Design Final",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213362937806004",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167548",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:22:23.926Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "Medium",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:27:28.768Z",
+    "name" : "Standups",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167548",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276263936678",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:08:28.256Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : "2026-02-19",
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:27:21.122Z",
+    "name" : "share timeline with meetings",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276263936678",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : "2026-02-17",
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276263936676",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:08:28.086Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "Medium",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : "2026-02-18",
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:26:57.173Z",
+    "name" : "Output Analysis Testing",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276263936676",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : "2026-02-16",
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167538",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:18:43.459Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:33:13.977Z",
+    "name" : "Code 2 Github",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167538",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167544",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:21:57.262Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:26:53.808Z",
+    "name" : "Planning task duties",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167544",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167519",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:12:33.917Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-21T23:26:39.787Z",
+    "name" : "Project Scope - ML Design - Mod2",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167519",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167515",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:12:03.478Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-15T22:30:01.944Z",
+    "name" : "RFC Document",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167515",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276270167524",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:15:39.360Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-19T18:19:33.419Z",
+    "name" : "Code 1 Github",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276270167524",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213362937805989",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-19T18:14:04.519Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "High",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : null,
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-19T18:41:21.928Z",
+    "name" : "Project Scope - ML Design p1",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213362937805989",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : null,
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  }, {
+    "gid" : "1213276263936674",
+    "actual_time_minutes" : null,
+    "assignee" : {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    },
+    "assignee_status" : "inbox",
+    "completed" : false,
+    "completed_at" : null,
+    "created_at" : "2026-02-14T03:08:27.860Z",
+    "custom_fields" : [ {
+      "gid" : "1213276263936664",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936665",
+        "color" : "aqua",
+        "enabled" : true,
+        "name" : "Low",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936667",
+        "color" : "purple",
+        "enabled" : true,
+        "name" : "High",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936666",
+        "color" : "yellow-orange",
+        "enabled" : true,
+        "name" : "Medium",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Priority",
+      "description" : "Track the priority of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "Medium",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    }, {
+      "gid" : "1213276263936669",
+      "enabled" : true,
+      "enum_options" : [ {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936671",
+        "color" : "yellow",
+        "enabled" : true,
+        "name" : "At risk",
+        "resource_type" : "enum_option"
+      }, {
+        "gid" : "1213276263936672",
+        "color" : "red",
+        "enabled" : true,
+        "name" : "Off track",
+        "resource_type" : "enum_option"
+      } ],
+      "enum_value" : {
+        "gid" : "1213276263936670",
+        "color" : "blue-green",
+        "enabled" : true,
+        "name" : "On track",
+        "resource_type" : "enum_option"
+      },
+      "name" : "Status",
+      "description" : "Track the status of each task.",
+      "created_by" : {
+        "gid" : "1213209484765945",
+        "name" : "sanjaykr33",
+        "resource_type" : "user"
+      },
+      "display_value" : "On track",
+      "resource_subtype" : "enum",
+      "resource_type" : "custom_field",
+      "is_formula_field" : false,
+      "is_value_read_only" : false,
+      "type" : "enum"
+    } ],
+    "due_at" : null,
+    "due_on" : "2026-02-17",
+    "followers" : [ {
+      "gid" : "1213209484765945",
+      "name" : "sanjaykr33",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213256914132667",
+      "name" : "Syed Ahmed Ali",
+      "resource_type" : "user"
+    }, {
+      "gid" : "1213276557806256",
+      "name" : "sanjaykumar@sandiego.edu",
+      "resource_type" : "user"
+    } ],
+    "hearted" : false,
+    "hearts" : [ ],
+    "liked" : false,
+    "likes" : [ ],
+    "memberships" : [ {
+      "project" : {
+        "gid" : "1213276263936659",
+        "name" : "AI540Project-EmployeeAttritionPrediction",
+        "resource_type" : "project"
+      },
+      "section" : {
+        "gid" : "1213276263936663",
+        "name" : "Complete",
+        "resource_type" : "section"
+      }
+    } ],
+    "modified_at" : "2026-02-19T18:42:55.937Z",
+    "name" : "Requirements- Datasets",
+    "notes" : "",
+    "num_hearts" : 0,
+    "num_likes" : 0,
+    "parent" : null,
+    "permalink_url" : "https://app.asana.com/1/1213209469966629/project/1213276263936659/task/1213276263936674",
+    "projects" : [ {
+      "gid" : "1213276263936659",
+      "name" : "AI540Project-EmployeeAttritionPrediction",
+      "resource_type" : "project"
+    } ],
+    "resource_type" : "task",
+    "start_at" : null,
+    "start_on" : "2026-02-13",
+    "subtasks" : [ ],
+    "tags" : [ ],
+    "resource_subtype" : "default_task",
+    "workspace" : {
+      "gid" : "1213209469966629",
+      "name" : "My workspace",
+      "resource_type" : "workspace"
+    }
+  } ]
+}
